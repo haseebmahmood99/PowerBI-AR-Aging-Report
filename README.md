@@ -29,10 +29,6 @@ Monitor open receivables and collections performance by customer, region, and pa
 - Collection Rate %
 - Invoice Count
 
-## Sample Screenshot
-> Add your screenshot file to the `images/` folder, then update the filename below if needed.
-
-![Dashboard Overview](images/dashboard-overview.png)
 
 ## Files in This Repo
 - `data/sample_invoices.csv` — mock invoice dataset
