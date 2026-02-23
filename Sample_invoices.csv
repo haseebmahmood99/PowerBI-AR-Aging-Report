@@ -1,0 +1,22 @@
+﻿InvoiceID,CustomerName,InvoiceDate,DueDate,PaidDate,InvoiceAmount,PaidAmount,Status,PaymentMethod,Region
+INV-1001,Alpha Co,10/1/2025,10/31/2025,10/28/2025,1200,1200,Paid,ACH,East
+INV-1002,Beta LLC,10/5/2025,11/4/2025,,850,0,Overdue,Check,South
+INV-1002,Beta LLC,10/5/2025,11/4/2025,,850,0,Overdue,Check,South
+INV-1004,Delta Group,10/10/2025,11/9/2025,,1500,500,Pending,ACH,North
+INV-1004,Delta Group,10/10/2025,11/9/2025,,1500,500,Pending,ACH,North
+INV-1005,Northstar Co,10/12/2025,11/11/2025,11/10/2025,980,980,Paid,Card,East
+INV-1006,Sunline LLC,10/15/2025,11/14/2025,,2100,0,Overdue,Wire,South
+INV-1007,Evergreen Inc,10/18/2025,11/17/2025,11/18/2025,1750,1750,Paid,ACH,West
+INV-1008,Metro Supply,10/20/2025,11/19/2025,,640,0,Pending,Check,North
+INV-1009,Oak Ridge,10/25/2025,11/24/2025,11/23/2025,1325,1325,Paid,Card,East
+INV-1010,BluePeak,10/28/2025,11/27/2025,,2890,1000,Pending,ACH,South
+INV-1011,PrimeWorks,11/1/2025,12/1/2025,11/29/2025,1100,1100,Paid,Wire,West
+INV-1012,Atlas Corp,11/3/2025,12/3/2025,,920,0,Overdue,Check,North
+INV-1013,Redstone LLC,11/6/2025,12/6/2025,12/5/2025,1680,1680,Paid,ACH,East
+INV-1014,ClearPath Inc,11/9/2025,12/9/2025,,2450,1200,Pending,Wire,South
+INV-1015,Horizon Group,11/12/2025,12/12/2025,12/10/2025,760,760,Paid,Card,West
+INV-1016,Ironwood Co,11/15/2025,12/15/2025,,1995,0,Overdue,ACH,North
+INV-1017,Valley Tech,11/18/2025,12/18/2025,12/17/2025,1420,1420,Paid,Wire,East
+INV-1018,Crestline,11/20/2025,12/20/2025,,870,0,Pending,Check,South
+INV-1019,Pioneer Labs,11/24/2025,12/24/2025,12/22/2025,2210,2210,Paid,ACH,West
+INV-1020,Beacon Systems,11/27/2025,12/27/2025,,3150,1500,Pending,Card,North
